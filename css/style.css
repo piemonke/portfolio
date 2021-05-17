@@ -3,6 +3,8 @@ body {
     flex-direction: column;
     align-items: center;
     max-width: 66vw;
+    background-color: DarkGray;
+    color: AliceBlue;
 }
 
 nav {
